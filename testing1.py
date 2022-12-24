@@ -4,7 +4,7 @@ import pandas as pd
 import sys
 
 
-print(time.altzone)
+#print(time.altzone)
 
 application = Flask(__name__)
 @application.route('/')
